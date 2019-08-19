@@ -1,4 +1,4 @@
-# email-signature-generatior
+# email-signature-generator
 Generates email signatures from a template getting the info for each employee from a csv file.
 
 Steps to follow to use the script:
